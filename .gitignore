@@ -1,0 +1,8 @@
+IlluminatedCloud/**
+.idea/**
+.DS_Store
+atlassiantest.iml
+.idea/
+IlluminatedCloud/
+dist/**
+build.properties
